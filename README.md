@@ -99,6 +99,15 @@ http://16.171.162.19:5000/health
 
 ---
 
+## 🧠 Key Learnings
+
+- Docker containerization and image creation  
+- Managing multi-container applications using Docker Compose  
+- Implementing CI/CD pipelines using GitHub Actions  
+- Deploying applications on AWS EC2 (Amazon Linux)  
+- Configuring Security Groups for public access  
+- Debugging real-world deployment issues  
+
 ## 👨‍💻 Author
 
 Karthik Varma
