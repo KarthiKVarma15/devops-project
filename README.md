@@ -1,12 +1,12 @@
-# 🚀 DevOps Project – Flask App with Docker, CI/CD & AWS Deployment
+#  DevOps Project – Flask App with Docker, CI/CD & AWS Deployment
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a complete DevOps lifecycle by building, containerizing, and deploying a Flask-based web application using Docker, CI/CD pipeline, and AWS EC2.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python (Flask)
 * Docker & Docker Compose
@@ -16,7 +16,7 @@ This project demonstrates a complete DevOps lifecycle by building, containerizin
 
 ---
 
-## ⚙️ Features
+##  Features
 
 * REST API using Flask
 * Multi-container setup (Flask + MongoDB)
@@ -26,7 +26,7 @@ This project demonstrates a complete DevOps lifecycle by building, containerizin
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 devops-project/
 │── app.py
@@ -37,7 +37,7 @@ devops-project/
 
 ---
 
-## 🐳 Docker Setup
+##  Docker Setup
 
 ### Build & Run
 
@@ -47,7 +47,7 @@ docker-compose up --build -d
 
 ---
 
-## 🔁 CI/CD Pipeline
+##  CI/CD Pipeline
 
 Implemented using GitHub Actions:
 
@@ -69,7 +69,7 @@ Steps:
 
 ---
 
-## 🌐 Live Application
+## Live Application
 
 Access the app:
 http://16.171.162.19:5000
@@ -79,7 +79,7 @@ http://16.171.162.19:5000/health
 
 ---
 
-## 🧪 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint  | Description  |
 | ------ | --------- | ------------ |
@@ -99,7 +99,7 @@ http://16.171.162.19:5000/health
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - Docker containerization and image creation  
 - Managing multi-container applications using Docker Compose  
@@ -108,6 +108,6 @@ http://16.171.162.19:5000/health
 - Configuring Security Groups for public access  
 - Debugging real-world deployment issues  
 
-## 👨‍💻 Author
+##  Author
 
 Karthik Varma
